@@ -1,0 +1,1 @@
+print("Bin Ladin".index('i')-len("Bin Ladin"))
